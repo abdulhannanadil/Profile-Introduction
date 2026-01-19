@@ -11,3 +11,12 @@ Design verification and ASIC implementations
 Hardware accelerators for Post-Quantum Cryptographic (PQC) algorithms
 
 Post-Quantum IoT security and protection mechanisms
+# 🤖 Deep Learning Journey
+
+Alongside my hardware research, I am actively building my Deep Learning skillset.
+
+I will be sharing my learning journey through hands-on projects, focusing on practical implementations and optimization techniques.
+
+I am new to GitHub and excited to learn, contribute, and collaborate with the community.
+
+I’m open to feedback, suggestions, and collaboration opportunities.
